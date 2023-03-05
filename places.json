@@ -2,14 +2,14 @@
   {
     "title": "Vivekananda Rock",
     "description": "some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Vivekananda_Rock_-_Kanyakumari.JPG/640px-Vivekananda_Rock_-_Kanyakumari.JPG",
+    "image": "https://raw.githubusercontent.com/nibaji/kanyakumari-tourist-guide-data/main/images/vivek.jpg",
     "location": "https://goo.gl/maps/urEuYCXU9hLzcwYX8",
     "contact": 9999999999
   },
   {
     "title": "Thiruvalluvar Statue",
     "description": "some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......some ......",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Thiruvalluvar_Statue.png",
+    "image": "https://raw.githubusercontent.com/nibaji/kanyakumari-tourist-guide-data/main/images/thiruvalluvar.png",
     "location": "https://goo.gl/maps/jX7ijFDN6hqRA6q29",
     "contact": 9999999999
   }
